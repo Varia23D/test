@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "title": "LOTR",
+        "description": "lorem ipsum",
+        "taken": false,
+        "createdAt": "2024-02-12T08:18:52.490Z",
+        "updatedAt": "2024-02-12T10:39:20.440Z",
+        "publishedAt": "2024-02-12T10:39:20.437Z",
+        "cover": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "title": "1984",
+        "description": "Классический дистопический роман, исследующий темы контроля, манипуляции и свободы в тоталитарном обществе.",
+        "taken": false,
+        "createdAt": "2024-02-12T11:26:26.612Z",
+        "updatedAt": "2024-02-12T11:26:27.819Z",
+        "publishedAt": "2024-02-12T11:26:27.817Z",
+        "cover": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "title": "To Kill a Mockingbird",
+        "description": "Эта книга рассказывает о расовых неравенствах и моральной борьбе в Южных Соединенных Штатах через призму взгляда ребенка, Скаута Финча.",
+        "taken": true,
+        "createdAt": "2024-02-12T11:27:21.945Z",
+        "updatedAt": "2024-02-12T11:27:30.580Z",
+        "publishedAt": "2024-02-12T11:27:30.577Z",
+        "cover": {
+          "data": [
+            {
+              "id": 3,
+              "attributes": {
+                "name": "36402034.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 279,
+                "height": 500,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_36402034.jpg",
+                    "hash": "thumbnail_36402034_13f25b9f09",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 87,
+                    "height": 156,
+                    "size": 5.24,
+                    "url": "/uploads/thumbnail_36402034_13f25b9f09.jpg"
+                  }
+                },
+                "hash": "36402034_13f25b9f09",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 34.7,
+                "url": "/uploads/36402034_13f25b9f09.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-02-12T11:27:12.447Z",
+                "updatedAt": "2024-02-12T11:27:12.447Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "title": "The Great Gatsby",
+        "description": "Этот роман описывает жизнь и обычаи американской высшей среды в 1920-х годах, с фокусом на темах любви, иллюзий и декаданса.",
+        "taken": true,
+        "createdAt": "2024-02-12T11:28:09.929Z",
+        "updatedAt": "2024-02-12T11:28:10.800Z",
+        "publishedAt": "2024-02-12T11:28:10.798Z",
+        "cover": {
+          "data": [
+            {
+              "id": 2,
+              "attributes": {
+                "name": "248596.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 241,
+                "height": 400,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_248596.jpg",
+                    "hash": "thumbnail_248596_f1b37ca073",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 94,
+                    "height": 156,
+                    "size": 4.78,
+                    "url": "/uploads/thumbnail_248596_f1b37ca073.jpg"
+                  }
+                },
+                "hash": "248596_f1b37ca073",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 21.56,
+                "url": "/uploads/248596_f1b37ca073.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-02-12T11:27:12.435Z",
+                "updatedAt": "2024-02-12T11:27:12.435Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "title": "test",
+        "description": "test description",
+        "taken": false,
+        "createdAt": "2024-02-13T09:14:29.356Z",
+        "updatedAt": "2024-02-13T09:14:30.201Z",
+        "publishedAt": "2024-02-13T09:14:30.199Z",
+        "cover": {
+          "data": null
+        }
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "title": "Идиот",
+        "description": "Идиот приходит домой и включает россия 24",
+        "taken": true,
+        "createdAt": "2024-02-14T07:26:11.222Z",
+        "updatedAt": "2024-02-14T07:26:12.186Z",
+        "publishedAt": "2024-02-14T07:26:12.183Z",
+        "cover": {
+          "data": [
+            {
+              "id": 4,
+              "attributes": {
+                "name": "Без названия.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 300,
+                "height": 168,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_Без названия.png",
+                    "hash": "thumbnail_Bez_nazvaniya_17d96c1479",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 245,
+                    "height": 137,
+                    "size": 17.57,
+                    "url": "/uploads/thumbnail_Bez_nazvaniya_17d96c1479.png"
+                  }
+                },
+                "hash": "Bez_nazvaniya_17d96c1479",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 4.75,
+                "url": "/uploads/Bez_nazvaniya_17d96c1479.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2024-02-14T07:26:06.269Z",
+                "updatedAt": "2024-02-14T07:26:06.269Z"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 6
+    }
+  }
+}
